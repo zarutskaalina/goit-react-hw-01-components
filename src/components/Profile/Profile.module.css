@@ -1,0 +1,16 @@
+.profile {
+  padding: 40px 50px;
+  margin-bottom: 10px;
+  background-color: aliceblue;
+  width: 500px;
+}
+
+.description {
+  width: 300px;
+  padding: 10px;
+}
+
+.stats {
+  padding: 10px;
+  width: 300px;
+}
